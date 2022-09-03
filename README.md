@@ -1,4 +1,4 @@
 # E-commerce-Mysql
-Projeto modelagem de dados para um E-commerce
+Projeto introdutório a modelagem de dados, E-commerce. <br>
 
 1º Desafio Bootcamp Database Experience.
